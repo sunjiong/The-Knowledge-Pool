@@ -3,7 +3,9 @@ title: Sun Jiong
 date: 2026-06-02
 ---
 
-### Activity: Create a blog post
+## My First Post
+
+Activity: Create a blog post
 
 - Browse to the main branch.
 
