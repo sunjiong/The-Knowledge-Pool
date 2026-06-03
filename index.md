@@ -2,7 +2,7 @@
 title: Sun Jiong
 date: 2026-06-02
 ---
-<img src="Self-Portrait_副本.jpg" width="200" height="200" align="right">
+<img src="assets/self.jpg" width="200" height="200" align="right" alt="xxxx" title="It's ME">
 
 ### Brief Introduction
 
