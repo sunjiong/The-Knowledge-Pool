@@ -15,6 +15,4 @@
 - LLLLLL
 - NNNNNN
 
-![self_image](assets/self.jpg)
-
 <a href="#C"> **Back To Top** </a>
