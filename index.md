@@ -3,7 +3,6 @@ date: 2026-06-02
 layout: home
 ---
 
-### 孙 炯
 <img src="assets/self.jpg" width="200" height="200" align="right" alt="xxxx">
 
 **A Lifelong Learner and Practitioner**
